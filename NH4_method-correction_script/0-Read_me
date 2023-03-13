@@ -1,0 +1,10 @@
+Three codes are used for samples size correction and calibration.
+The first code, _NH4_1_iso_size_corr+calib_CALC.py, determines the best tuple for size correction and calibration.
+It is needs 2 files:
+- input_measured_blanks.txt
+- input_measured_iso_stds.txt
+
+The second code, _NH4_2_iso_size_corr+calib_PLOT_V3.py, calculates the size corrected and calibrated values of the measured samples.
+It needs the output files from code 1 and the input_measured_samples.txt
+
+The third code gather the functions and the standard values necessary in the two codes.
