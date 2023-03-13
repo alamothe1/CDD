@@ -1,0 +1,2 @@
+'ID1	ID2	Area32	Area28	ratio28/32	d17Omea	d18Omea	D17Omea	d15Nmea
+sample_test		8.085	21.623	2.674458874	-1.96	-3.234	-0.27832	-9.64
